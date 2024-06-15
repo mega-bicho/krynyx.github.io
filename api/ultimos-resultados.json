@@ -4,4 +4,6 @@
 	"quina": {"concurso": 6461, "dezenas": "47-49-57-64-69"},
 	"timemania": {"concurso": 2104, "dezenas": "23-35-38-50-59-64-78"},
 	"diadesorte": {"concurso": 925, "dezenas": "03-04-10-12-16-18-26", "mes": "Setembro"},
+	"milionaria": {"concurso": 154, "dezenas": "13-14-16-23-40-41", "trevos": "2-4"}
+
 }
