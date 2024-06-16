@@ -1,9 +1,9 @@
 {
-	"megasena": {"concurso": 2736, "dezenas": "11-17-24-26-35-43"},
-	"lotofacil": {"concurso": 3129, "dezenas": "01-02-04-06-07-08-14-15-16-17-18-19-22-23-25"},
+	"megasena": {"concurso": 2737, "dezenas": "16-20-30-34-37-45"},
+	"lotofacil": {"concurso": 3130, "dezenas": "01-02-05-08-09-10-12-13-14-15-16-20-21-22-24"},
 	"quina": {"concurso": 6461, "dezenas": "47-49-57-64-69"},
-	"timemania": {"concurso": 2104, "dezenas": "23-35-38-50-59-64-78"},
-	"diadesorte": {"concurso": 925, "dezenas": "03-04-10-12-16-18-26", "mes": "setembro"},
-	"milionaria": {"concurso": 154, "dezenas": "13-14-16-23-40-41", "trevos": "2-4"},
+	"timemania": {"concurso": 2105, "dezenas": "15-19-25-26-38-40-48"},
+	"diadesorte": {"concurso": 926, "dezenas": "07-08-18-19-23-24-27", "mes": "novembro"},
+	"milionaria": {"concurso": 155, "dezenas": "03-06-07-17-23-31", "trevos": "3-4"},
 	"supersete": {"concurso": 557, "dezenas": "0-1-7-9-2-0-5"}
 }
